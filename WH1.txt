@@ -1,0 +1,6 @@
+Brot:		13
+Medizin:	2
+Reifen:		12
+Gold:		2
+Kokain:		1
+Waffen:		15
